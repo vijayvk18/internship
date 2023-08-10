@@ -1,0 +1,12 @@
+a=prompt('enter your number1:');
+b=prompt('enter your number2:');
+document.write('addition :');
+document.write(parseInt(a)+parseInt(b));
+document.write('\nsubtraction :');
+document.write('\n',parseInt(a)-parseInt(b));
+document.write('\nmultiplication :');
+document.write('\n',parseInt(a)*parseInt(b));
+document.write('\ndivision :');
+document.write('\n',parseInt(a)/parseInt(b));
+document.write('\nmodulus :');
+document.write('\n',parseInt(a)%parseInt(b));
